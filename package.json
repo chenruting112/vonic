@@ -24,7 +24,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmmirror.com/vonic/-/vonic-2.0.0-beta.15.tgz",
+  "_resolved": "https://github.com/chenruting112/vonic.git",
   "_spec": "2.0.0-beta.15",
   "_where": "/Users/ianyang/work/Boat_Project/boat_app",
   "author": {
